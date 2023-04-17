@@ -1,0 +1,159 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "photo": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "men's clothing Items",
+      "photo": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "photo": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Women's clothing Items",
+      "photo": "4.jpg"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "email": "Ravi@gmail.com",
+      "password": "123654",
+      "name": "Ravi",
+      "city": "Surat",
+      "phone": "91-570-236-7033"
+    },
+    {
+      "id": 2,
+      "email": "Raju@gmail.com",
+      "password": "123654",
+      "name": "Raju",
+      "city": "Vadodra",
+      "phone": "91-570-236-7033"
+    },
+    {
+      "id": 3,
+      "email": "Mansi@gmail.com",
+      "password": "879554",
+      "name": "Mansi",
+      "city": "Kolkata",
+      "phone": "91-985-254-8754"
+    },
+    {
+      "id": 4,
+      "email": "Yamini@gmail.com",
+      "password": "658745",
+      "name": "Yamini",
+      "city": "Ranchi",
+      "phone": "91-587-125-3652"
+    },
+    {
+      "id": 5,
+      "email": "Krina@gmail.com",
+      "password": "254745",
+      "name": "Krina",
+      "city": "Lakhnow",
+      "phone": "91-654-254-3652"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Watch",
+      "price": "9999",
+      "category": "Men",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "image": "1.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "T-shirt",
+      "price": "699",
+      "category": "men's clothing",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+      "image": "2.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "title": "Dress",
+      "price": "9999",
+      "category": "women's clothing",
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "image": "3.jpg",
+      "rating": 3.9
+    },
+    {
+      "id": 4,
+      "title": "Shoes",
+      "price": "9999",
+      "category": "Men",
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design.",
+      "image": "4.jpg",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "title": "neckless",
+      "price": "850",
+      "category": "jewelery",
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States.",
+      "image": "5.jpg",
+      "rating": 4
+    },
+    {
+      "image": "dz",
+      "title": "a",
+      "category": "a",
+      "description": "a",
+      "price": "a",
+      "rating": "dsdc",
+      "id": 6
+    }
+  ],
+  "Review": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "email": "Ravi@gmail.com",
+      "product": "neckless",
+      "review": "ksjrl erja jenrioahq llejkhfl laejhri naelkhrio oewihroihfkniehf ij3ei fijeawipojwp"
+    },
+    {
+      "id": 2,
+      "name": "Mansi",
+      "email": "Mansi@gmail.com",
+      "product": "Bottoms",
+      "review": "ksjrl erja jenrioahq llejkhfl laejhri naelkhrio oewihroihfkniehf ij3ei fijeawipojwp"
+    },
+    {
+      "id": 3,
+      "name": "Krina",
+      "email": "Krina@gmail.com",
+      "product": "Dress",
+      "review": "ksjrl erja jenrioahq llejkhfl laejhri naelkhrio oewihroihfkniehf ij3ei fijeawipojwp"
+    },
+    {
+      "id": 4,
+      "name": "Pooja",
+      "email": "Pooja@gmail.com",
+      "product": "Tshirt",
+      "review": "ksjrl erja jenrioahq llejkhfl laejhri naelkhrio oewihroihfkniehf ij3ei fijeawipojwp"
+    },
+    {
+      "id": 5,
+      "name": "Jay",
+      "email": "Jay@gmail.com",
+      "product": "Shoes",
+      "review": "ksjrl erja jenrioahq llejkhfl laejhri naelkhrio oewihroihfkniehf ij3ei fijeawipojwp"
+    }
+  ]
+}
